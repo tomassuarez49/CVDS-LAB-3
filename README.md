@@ -1,4 +1,6 @@
-Integrantes:
-Nicolas Achuri
-Sara Castillo
-Tomas Suarez
+## Integrantes:
+* Nicolas Achuri
+  
+* Sara Castillo
+
+* Tomas Suarez
